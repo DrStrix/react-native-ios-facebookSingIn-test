@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

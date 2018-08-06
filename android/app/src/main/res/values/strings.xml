@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GAppAuth3</string>
+    <string name="facebook_app_id">2147462375498500</string>
+    <string name="fb_login_protocol_scheme">fb2147462375498500</string>
 </resources>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:imagepipeline-okhttp3-1.9.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/f35fef739dbc28167824541a4951a62b7fdaadb7/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f35fef739dbc28167824541a4951a62b7fdaadb7/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

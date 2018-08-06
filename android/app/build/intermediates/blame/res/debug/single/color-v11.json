@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

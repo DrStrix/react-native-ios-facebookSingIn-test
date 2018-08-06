@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

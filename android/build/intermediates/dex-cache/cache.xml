@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/38ec533b337befedb1c43adc2289e3d4aeffdcc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_be99d18a08929bb4a4feca3bd8d7b3093f1cea61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/core-3.3.0_321138e060316802e1a62a08fd49c65d68282246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/bb52c59df84afdfbe80aadce6be2cb513050fb4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_f488b4bf48a8805f442b63c78476b77d4f2e78ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_9eae5c4753a01bead2af0a3d2e404d45637d0d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/f4d1dcf2aec8393f7a06d31e34063c780b7da184/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_9406794d7bab12697753529c63fc35216789bfee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/6fe88164c6095326a4e24acf47114128a631179e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_20171c04f7c73d293af28415f25e91471eb832b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/80b992ab7f05a9a8590d7e898aacf52b513e0217/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_a850d7d5d96fc40a25417bf1667b8b476dad7753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/0c809243068130fe4e26bf9177c1fb8c0dbbd16c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="51439f5fd81208cae8623ce21acd1ca7a73a3d33">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_30a2c7a9bbfbdf71051f59ca0badec8566ec3e15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/97b9896f35eb7d3a753fccda48a9e877f52c34c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_183880e2b31b188b0db19da926b1633abc662775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/b2427b72ca8bf5ffaccbcb852e15d300781561f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="98f90b754c467e641eb666bb74b9b4377da4c9c5">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_de0ce83449dd74520ed797541a171c4328e921f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/6fe88164c6095326a4e24acf47114128a631179e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_b9e166390fbcec7521c715dad2db790419f184db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/8498ac8ac37c4df473e77ed77cf7fa484008f24c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_172b1c81070bc89c81c32c109fc779ddd36b4a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_1d5a37d3ba14b00d489ac67c60bf40bfb6f5d316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/8011c55f860f8a251625cc9973300888bec90ae6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_eb6e007ca3b59848e5dd2a1e7e603e9b26b848d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/3e9a69ee125189b14c581cdc04681dc7f75ea0dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f64aa03e24769f0e10f35f1c08e4d004b5db067b">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_1066d5878ddc353d7aea0600e5554b64139d1108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="44f21b570dd38d9a7ebe2c9587febfde2f493e99">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_0940204223eca5fae218d0fc50ae3f59bd5e9d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/3e5e990e5b9ad6c09310fd562c8b65a8fa0089e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_334d4c326c53d5e410833e944b7f1a1189ed2ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/988af9a51bdba3b9c7a51ac83b96965b4ca8ac67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_8a81c0c1e4c58bb30a3a4405dbc5401d4bbdb003.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/74e0075b1fd438b433eccd5da8d5274f9fc20b9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6d3dda07fbd30171edc150e4f13884fce5cd9926">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_964bcc65bffb75433914c3999c824d4641c08bbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/c103195acaa0f5a638868726a307e6d7761603cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8484d5b4369cc7ab8d5722290ed25d134afde322">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_0b08580b2fa20fef679e15ea9f75aa85b33342ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/90815737209a3f3c0f2793f53e8720c14bb2e33f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="86aca8cc002f8e0e466af22d18699e54f1d1b6e1">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_0bee7494f75780dd6e666b51288bf1105923c8fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/3446fc1bc2a0f55f5ae182df3f401a0858d60aa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_4c504b889b6e95c80055c732df01310383f9a6ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_58189b62c51abf5dd9e6075936b56db2822fe3bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_8aacaca027d4909b5808af65cfda43878ebc1300.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/752ecd84ab21acd00fb1c99faa2cd06fb823b8c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="efa7743094762c8b1626d833e8a3b31a6a6ea31a">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_83fe20eaadf68e39db609019b80b1a100c3f7a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/8b019fb12b157a9cf04431a346cd8f72702bd904/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_f54eca3f08e8e5010a0a095d7969384e5fcb6885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/cc85b33dfb04b43dbb1a542ed66715815c19d758/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_3b1075ce292e7cb6d78430c13cb7b37909cb970c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bokus/.android/build-cache/0b03a5925f09684bde2f2c9b34a7c83df7bf8824/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0f5aec8dc543f3bae42c156cffe3c294c7cedd71">
+        <dex dex="/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/pre-dexed/debug/classes_291f009b8ae3a323ad752ddbc5f5b2ab824805bb.jar" />
+    </item>
+
+</items>

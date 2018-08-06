@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/bokus/.android/build-cache/3e9a69ee125189b14c581cdc04681dc7f75ea0dc/output/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/com_facebook_button_text_color.xml",
+        "source": "/Users/bokus/.android/build-cache/b2427b72ca8bf5ffaccbcb852e15d300781561f0/output/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bokus/Job/Tests/googleAuth/FBSingInTest/react-native-ios-facebookSingIn-test/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/bokus/.android/build-cache/2239f1de5b91100abef32eae9dcf36749f10c7e2/output/res/color/switch_thumb_material_dark.xml"
+    }
+]
